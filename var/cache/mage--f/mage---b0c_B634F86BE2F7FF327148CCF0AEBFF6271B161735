@@ -1,0 +1,42 @@
+<div id="location-popup">
+<div class="inner">
+<div class="col1"><img src="http://fullcare.vn/media/wysiwyg/location1.png" alt="" />
+<div class="col1-content">
+<div class="col1-cont"><span>OUR STORE</span>
+<ul>
+<li><a href="http://fullcare.vn/?___store=english&amp;___from_store=australia/&___SID=U">England</a></li>
+<li><a href="http://fullcare.vn/?___store=french&amp;___from_store=english/&___SID=U">France</a></li>
+<li><a href="http://fullcare.vn/?___store=australia&amp;___from_store=english/&___SID=U">Australia</a></li>
+<li><a href="http://fullcare.vn/?___store=canada&amp;___from_store=english/&___SID=U">Cannada</a></li>
+<li><a href="http://fullcare.vn/?___store=italia&amp;___from_store=english/&___SID=U">Italia</a></li>
+<li><a href="http://fullcare.vn/?___store=german&amp;___from_store=english/&___SID=U">German</a></li>
+</ul>
+</div>
+<div class="col1-cont"><span>EUROPE</span>
+<ul>
+<li><a href="#">Belarus</a></li>
+<li><a href="#">Bosnia</a></li>
+<li><a href="#">Bulgaria</a></li>
+<li><a href="#">Croatia</a></li>
+<li><a href="#">Czech republic</a></li>
+<li><a href="#">Denmark</a></li>
+</ul>
+</div>
+<div class="col1-cont"><span>AFRICA</span>
+<ul>
+<li><a href="#">Algeria</a></li>
+<li><a href="#">Egypt</a></li>
+<li><a href="#">Kenya</a></li>
+<li><a href="#">Morocco</a></li>
+<li><a href="#">Nigeria</a></li>
+<li><a href="#">Sudan</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col2"><img src="http://fullcare.vn/media/wysiwyg/location2.png" alt="" /></div>
+<div class="subscribe-bottom">
+<div class="inner"><input id="dont-show-again" type="checkbox" name="dontshowitagain" value="dontshowitagain" /><label for="dont-show-again">Don't show this popup again</label></div>
+</div>
+</div>
+</div>

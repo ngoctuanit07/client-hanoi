@@ -1,0 +1,14 @@
+<div class="spotlight spotlight4 col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<div class="block-title">Contact us</div>
+<ul class="block-content">
+<li class="address"><span class="ico-contactus">icon</span>
+<div class="inner">Address : No 40 Baria Sreet 133/2 NewYork City, NY, United States.</div>
+</li>
+<li class="email"><span class="ico-contactus">icon</span>
+<div class="inner">Email : <a href="mailto:contact@market.com">contact@market.com</a></div>
+</li>
+<li class="phone"><span class="ico-contactus">icon</span>
+<div class="inner">Phone 1 : 0123456789<br /> Phone 2 : 0123456789</div>
+</li>
+</ul>
+</div>

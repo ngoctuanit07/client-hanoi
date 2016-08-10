@@ -1,0 +1,34 @@
+<div class="block-clientsay">
+<div class="block-title"><span>Clients say</span></div>
+<div class="block-content">
+<div id="carousel-generic" class="carousel slide" data-ride="carousel" data-interval="0"><!-- Controls -->
+<div class="carousel-control-wrap"><a class="carousel-control-tab prev" href="#carousel-generic" data-slide="prev"> Previous </a> <a class="carousel-control-tab next" href="#carousel-generic" data-slide="next"> Next </a></div>
+<div class="carousel-inner">
+<div class="item active">
+<div class="client-cont">Aliquam ut tellus dignissim, cursus erat ultricies tellus. Nulla tempus sollicitudin mauris cursus dictum. Etiam id diam diam.</div>
+<div class="client-info"><img src="http://fullcare.vn/media/wysiwyg/client-img1.jpg" alt="" />
+<div class="inner"><span>Aliquam Tellus</span>
+<p>Vitae Ornare Mauris</p>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="client-cont">Daze dictum, mauris sed ullamcorper pharetra, sapien dui rutrum velit, sed interdum urna erat dapibus felis. Donec in urna eget.</div>
+<div class="client-info"><img src="http://fullcare.vn/media/wysiwyg/client-img2.jpg" alt="" />
+<div class="inner"><span>Nulla tempus</span>
+<p>Cursus Erat Ultricies</p>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="client-cont">At vero eos et accusamus et iusto odio quos dolores et quasmolestia- sexcepturi sint occaecati cupiditate non provident, sunt in culpa.</div>
+<div class="client-info"><img src="http://fullcare.vn/media/wysiwyg/client-img1.jpg" alt="" />
+<div class="inner"><span>Aliquam Tellus</span>
+<p>Vitae Ornare Mauris</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,11 @@
+<div class="collections-wrap">
+<div class="block-title"><span>Collections</span></div>
+<ul class="collections">
+<li class="collect collect1"><a href="#">Furniture</a></li>
+<li class="collect collect2"><a href="#">Gift idea</a></li>
+<li class="collect collect3"><a href="#">Cool gadgets</a></li>
+<li class="collect collect4"><a href="#">Ourdoor<br /><span>activities</span></a></li>
+<li class="collect collect5"><a href="#">Accessories for<br /><span>smartphone</span></a></li>
+<li class="collect collect6"><a href="#">Women world</a></li>
+</ul>
+</div>

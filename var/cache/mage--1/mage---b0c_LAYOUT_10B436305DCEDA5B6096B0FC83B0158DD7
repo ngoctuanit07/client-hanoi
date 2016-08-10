@@ -1,0 +1,19 @@
+<reference name="footer">
+   <block type="blog/blog" name="copyright.blog.footer" template="aw_blog/copyright.phtml"/>
+</reference>
+<block type="blog/rss" output="toHtml" name="rss.blog.new"/>
+<reference name="top.links">
+   <action method="addLink" translate="label title" module="customer">
+      <label>Log In</label>
+      <url helper="customer/getLoginUrl"/>
+      <title>Log In</title>
+      <prepare/>
+      <urlParams/>
+      <position>100</position>
+   </action>
+</reference>
+<remove name="wishlist_sidebar"/>
+<remove name="reorder"/>
+<reference name="right">
+   <block type="sales/reorder_sidebar" name="sale.reorder.sidebar" as="reorder" template="sales/reorder/sidebar.phtml"/>
+</reference>

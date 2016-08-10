@@ -1,0 +1,267 @@
+<div class="aboutus-page">
+<div class="row box-1-about">
+<div class="col-md-12 page-title title-c">
+<h1>About Us</h1>
+</div>
+<div class="col-md-9 welcome-about-us">
+<div class="title-about-us">
+<h2>Welcome To Shop</h2>
+</div>
+<div class="content-about-us">
+<div class="image-about-us"><img src="http://fullcare.vn/media/wysiwyg/about-us.png" alt="About Us" /></div>
+<div class="des-about-us">Nulla auctor mauris ut dui luctus semper. In hac habitasse platea dictumst. Duis pellentesque ligula a risus suscipit dignissim. Nunc non nisl lacus. Integer pharetra lacinia dapibus. Donec eu dolor dui, vel posuere mauris.<br /><br /> Pellentesque semper congue sodales. In consequat, metus eget con sequat ornare, augue dolor blandit purus, vitae lacinia nisi tellus in erat. Nulla ac justo eget massa aliquet sodales. Maecenas mattis male suada sem, in fringilla massa dapibus quis. Suspendisse aliquam leo id neque auctor molestie. Etiam at nulla tellus.<br /><br /> Nulla auctor mauris ut dui luctus semper. In hac habitasse platea dictumst. Duis pellentesque ligula a risus suscipit dignissim.</div>
+</div>
+</div>
+<div class="col-md-3 why-choose-us">
+<div class="title-about-us">
+<h2>Why Choose Us</h2>
+</div>
+<div class="content-why">
+<ul class="why-list">
+<li><a title="Shipping &amp; Returns" href="#">Shipping &amp; Returns</a></li>
+<li><a title="Secure Shopping" href="#">Secure Shopping</a></li>
+<li><a title="International Shipping" href="#">International Shipping</a></li>
+<li><a title="Affiliates" href="#">Affiliates</a></li>
+<li><a title="Group Sales" href="#">Group Sales</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-12 our-member">
+<div class="title-about-us">
+<h2>Our Member</h2>
+</div>
+<div class="short-des">Consectetur adipiscing elit. Donec pellentesque venenatis elit, quis aliquet mauris malesuada vel. Donec vitae libero dolor, eget dapibus justo.<br />Aenean facilisis aliquet feugiat. Suspendisse lacinia congue est ac semper. Nulla ut elit magna, vitae volutpat magna.</div>
+<div class="sm_imageslider slider-ourmember">
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-1.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Tech Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-2.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Manager</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-3.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Art Director</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-4.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-1.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Tech Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-2.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Manager</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-3.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Art Director</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-4.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-1.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Tech Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-4.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-4.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+<div class="item respl-item">
+<div class="item-inner">
+<div class="w-image-box">
+<div class="item-image"><a title="Jennifer lawrence" href="#"><img src="http://fullcare.vn/media/wysiwyg/cl-image-3.png" alt="Jennifer lawrence" /></a></div>
+<a class="cl-nw cl-facebook" title="Facebook" href="#">Facebook</a> <a class="cl-nw cl-flickr" title="Flickr" href="#">Flickr</a> <a class="cl-nw cl-twitter" title="Twitter" href="#">Twitter</a></div>
+<div class="info-member">
+<h2 class="cl-name"><a title="Jennifer lawrence" href="#">Jennifer lawrence</a></h2>
+<p class="cl-job">Design Leader</p>
+<p class="cl-des">Pellentesque dictumst nibh nulla dui at urna leo wisi dui</p>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+			jQuery(document).ready(function($) {
+				$('.slider-ourmember').owlCarousel({
+					pagination: false,
+					center: false,
+					nav: true,
+					loop: false,
+					margin: 30,
+					navText: [ 'prev', 'next' ],
+					slideBy: 1,
+					autoplay: false,
+					autoplayTimeout: 2500,
+					autoplayHoverPause: true,
+					autoplaySpeed: 800,
+					startPosition: 0, 
+					responsive:{
+						0:{
+							items:1
+						},
+						480:{
+							items:2
+						},
+						768:{
+							items:3
+						},
+						1200:{
+							items:4
+						}
+					}
+				});	  
+			});
+// ]]></script>
+</div>
+<div class="col-md-12 happy-about-us">
+<div id="slider-happy-about-us" class="happy-ab carousel slide" data-ride="carousel">
+<div class="title-happy-about">
+<h2>Happy customer says</h2>
+</div>
+<div class="sm_imageslider slider-happy-client">
+<div class="item active">
+<div class="ct-why">
+<div class="client-say">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis neque eget nulla. Curabitur dictum consectetur metus nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis.</div>
+<p class="client-info-about"><span class="name">- Mama Duo - </span>Social Media Strategist</p>
+</div>
+</div>
+<div class="item">
+<div class="ct-why">
+<div class="client-say">In congue, justo non cursus adipiscing, dui nibh scelerisque justo, lorem ipsum dolor sit amet, consectetur adipiscing elit. quis pretium turpis neque eget nulla. Curabitur dictum consectetur metus nec dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium turpis.</div>
+<p class="client-info-about"><span class="name">- Jonh Doe - </span>Supporter</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+				jQuery(document).ready(function($) {
+					$('.slider-happy-client').owlCarousel({
+						pagination: false,
+						center: false,
+						nav: true,
+						loop: false,
+						margin: 30,
+						navText: [ 'prev', 'next' ],
+						slideBy: 1,
+						autoplay: false,
+						autoplayTimeout: 2500,
+						autoplayHoverPause: true,
+						autoplaySpeed: 800,
+						startPosition: 0, 
+						responsive:{
+							0:{
+								items:1
+							},
+							480:{
+								items:1
+							},
+							768:{
+								items:1
+							},
+							1200:{
+								items:1
+							}
+						}
+					});	  
+				});
+// ]]></script>
+</div>
+</div>
+</div>
+</div>
